@@ -59,7 +59,7 @@ source visionenv/bin/activate
 ```
 deactivate
 ```
-4. Ya con el entorno virtual creado y prendido/activado procedemos a la instalacion de las librerias que esta usando el proyecto, para esto ejecutamos el siguiente comando `pip install requirements.txt`
+4. Ya con el entorno virtual creado y prendido/activado procedemos a la instalacion de las librerias que esta usando el proyecto, para esto ejecutamos el siguiente comando `pip install -r requirements.txt`
 
 5. Esperamos a que todo descargue y ya quedamos con el entorno virtual  totalmente funcional.
 
