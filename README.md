@@ -1,4 +1,10 @@
-# [VisionArtificial_2021_Retinas](https://epalaciol.github.io/VisionArtificial_2021_Retinas/TrabajoRetinas.html)
+# VisionArtificial_2021_Retinas
+[Pagina Principal](https://epalaciol.github.io/VisionArtificial_2021_Retinas/index.html)
+
+##  Entrega 1:
+A continuación se encuentra los links de la pagina HTML y los notebooks
+- [Notebook Entrega 1 diapositivas bien ](https://epalaciol.github.io/VisionArtificial_2021_Retinas/Exposicion/TrabajoRetinas_Alejandra.ipynb)
+- [Pagina Principal](https://epalaciol.github.io/VisionArtificial_2021_Retinas/index.html)
 
 ## Descripción del problema: 
 https://drive.grand-challenge.org/DRIVE/
