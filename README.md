@@ -3,8 +3,8 @@
 
 ##  Entrega 1:
 A continuación se encuentra los links de la pagina HTML y los notebooks
+- [Notebook Entrega 1 diapositivas bien](https://github.com/Epalaciol/VisionArtificial_2021_Retinas/blob/master/Exposicion/TrabajoRetinas_Alejandra.ipynb)
 - [Notebook Entrega 1 diapositivas bien (DESCARGA automatica)](https://epalaciol.github.io/VisionArtificial_2021_Retinas/Exposicion/TrabajoRetinas_Alejandra.ipynb)
-- [Notebook Entrega 1 diapositivas bien](https://github.com/Epalaciol/VisionArtificial_2021_Retinas/blob/master/Exposicion/TrabajoRetinas_Alejandra.ipynbl)
 
 ## Descripción del problema: 
 https://drive.grand-challenge.org/DRIVE/
